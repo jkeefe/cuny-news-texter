@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "cuny-news-texter-executor",
+    "name": "cuny-news-texter",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "a2edpc6i54",
+    "module": "lambda"
+  }
+}
